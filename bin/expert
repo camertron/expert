@@ -1,0 +1,4 @@
+#! /usr/bin/env ruby
+
+require 'expert'
+Expert::Cli.start(ARGV)
